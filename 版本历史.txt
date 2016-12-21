@@ -1,0 +1,8 @@
+1.2.0.0(beta)
+1)暂未公开发布， 主要是老的版本jlp351没有新增加textarea方法
+1.0.1.1
+1） 增加ESC里面的2D条码
+1.0.1.0
+1)修改getPrinterState方法，用户只需要调用getPrinterState，然后查询相关状态。
+1.0.0.9
+1）在port增加flushReadBuffer()方法。让读取状态前清除以前的数据
